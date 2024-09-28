@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how to build and optimize distributed machine learning workflows using **Ray**—a powerful framework for scaling machine learning and AI workloads. The project covers key techniques including distributed data handling, model training with **Ray Train**, hyperparameter tuning with **Ray Tune**, and deploying models with **Ray Serve**. It also explores the use of **Accelerated DAG (ADAG)** to optimize complex machine learning workflows.
+This project leverages a distributed computing framework to process large-scale data, enhancing the performance and efficiency of machine learning models, while also utilizing advanced statistical models to improve prediction accuracy.
 
 ## Key Features
 1. **Distributed Computing and Data Handling**:
