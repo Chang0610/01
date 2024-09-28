@@ -1,4 +1,4 @@
-# Distributed Machine Learning Optimization with Ray
+# Distributed Climate Data Analysis and Prediction System
 
 ## Project Overview
 
